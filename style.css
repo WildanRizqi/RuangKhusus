@@ -1,0 +1,204 @@
+*,
+
+html {
+
+}
+
+.head {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;           
+    max-width: 1200px;       
+    margin: 20px auto;       
+    padding: 10px 20px;
+    height: 78px;
+    background:linear-gradient(135deg, #C084FC, #FFF1A8, #FFFFFF);
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #95b;
+    font-weight: 900;
+}
+
+.ulbar{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+    }
+
+.libarr {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    font-size: 25px;
+    
+}
+
+.libarr:hover {
+    background: linear-gradient(135deg, #c084fc, #e9d5ff);
+    transition: .3 ease-in-out;
+    transition-delay: .1s;
+    border-radius: 15px;
+    transition-duration: .1s;
+}
+
+.navi {
+    text-decoration: none;
+    color: inherit;
+}
+
+.logo {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 15%;
+    height: 15%;
+    list-style-type: none;
+
+}
+
+.libarrr {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.gambar1 {
+    width: 300px;
+    height: 350px;
+    border-radius: 15px;
+    margin-left: 15%;
+}
+
+.judul2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Tahoma;
+    text-align: center;
+    margin-left: 6%;
+    font-size: 125%;
+    text-align: left;
+    background: linear-gradient(135deg, #d1d5db,#b6e0f2,#5b7db1);
+    margin: 20px auto;      
+    padding: 20px;
+    width: 50%;
+    border-radius: 10px;
+    height: auto;
+}
+
+.JUDUL {
+    width: 90%;             
+    max-width: 600px;       
+    margin: 20px auto;      
+    padding: 20px;
+    background: linear-gradient(135deg, #d1d5db,#b6e0f2,#5b7db1);
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.iklan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    height: 350px;
+    margin-left: 2%;
+}
+
+.body {
+    background: linear-gradient(1060deg, #d1d5db,#b6e0f2,#5b7db1);
+    min-height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+.tujuan1 {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.tujuan2 {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.prinsip1 {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.prinsip2 {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.jenis1 {
+    margin-left: 6%;
+    margin-right: 6%;
+
+}
+
+.jenis2 {
+    margin-left: 6%;
+    margin-right: 6%;
+    
+}
+
+.berandaa {
+    background: linear-gradient(135deg,#5b7db1 ,#b6e0f2,#d1d5db);
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 125%;
+    margin-left: 6%;
+    margin-right: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer {
+    width: 100px;
+    height: 50%;             
+    max-width: 200px;       
+    margin: 20px auto;      
+    padding: 10px;
+    background: linear-gradient(-135deg, #d1d5db,#b6e0f2,#5b7db1);
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.footer1 {
+    width: 450px;
+    height: 50%;                   
+    margin: 20px auto;      
+    padding: 10px;
+    background: linear-gradient(-135deg, #d1d5db,#b6e0f2,#5b7db1);
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.video1 {
+    width: 400px;
+    height: 200px;
+    border-radius: 15px;
+    margin-left: 15%;
+}
+
+.gambar {
+    width: 400px;
+    height: 600px;
+    border-radius: 15px;
+    margin-left: 15%;
+}
